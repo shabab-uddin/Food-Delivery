@@ -1,7 +1,7 @@
 
 # 🍔 FoodieExpress – Food Delivery Website
 
-## 📌 About the Project
+##  About the Project
 FoodieExpress is a simple and attractive food delivery website created as a college mini-project. Users can explore popular food items, search for dishes, and interact with a basic shopping cart counter.
 
 ## ✨ Features
