@@ -32,6 +32,7 @@ FoodieExpress is a simple and attractive food delivery website created as a coll
 4. Search for food and test the Add buttons.
 
 ## 🌐 Live Website
+https://shabab-uddin.github.io/Food-Delivery/
 Visit the live website using the GitHub Pages link configured for this repository.
 
 ## 🔮 Future Improvements
